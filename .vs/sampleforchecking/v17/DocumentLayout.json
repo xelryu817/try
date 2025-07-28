@@ -1,0 +1,1023 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\migrations\\20250725181414_adding salesitem and salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\migrations\\20250725181414_adding salesitem and salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\migrations\\pharmacydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\migrations\\pharmacydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\implementation\\sale\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\implementation\\sale\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\interfaces\\isale\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\interfaces\\isale\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\sales\\updatesalestransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\sales\\updatesalestransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\sales\\createsalestransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\sales\\createsalestransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\sales\\salestransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\sales\\salestransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\sales\\updatesalesitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\sales\\updatesalesitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\sales\\createsalesitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\sales\\createsalesitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\sales\\salesitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\sales\\salesitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\cashierview model\\salesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\cashierview model\\salesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\cashierview model\\salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\cashierview model\\salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\implementation\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\implementation\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\vatentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\vatentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\vatentry\\vatentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\vatentry\\vatentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\vatentry\\createvatentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\vatentry\\createvatentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\discount\\updatediscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\discount\\updatediscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\discount\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\discount\\discountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\discount\\creatediscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\discount\\creatediscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\controllers\\vatentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\controllers\\vatentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\implementation\\vatentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\implementation\\vatentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\implementation\\sale\\salestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\implementation\\sale\\salestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\interfaces\\isale\\isalestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\interfaces\\isale\\isalestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\implementation\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\implementation\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\implementation\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\implementation\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\migrations\\20250725054856_adding vatentry, discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\migrations\\20250725054856_adding vatentry, discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\migrations\\20250724160843_adding employee, accounts, role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\migrations\\20250724160843_adding employee, accounts, role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\interfaces\\ivatentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\interfaces\\ivatentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\interfaces\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\interfaces\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\interfaces\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\interfaces\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\services\\implementation\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\services\\implementation\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\implementation\\vatentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\implementation\\vatentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\interfaces\\ivatentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\interfaces\\ivatentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\vatentry\\updatevatentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\vatentry\\updatevatentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\dtos\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\dtos\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\repository\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\repository\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\sampleforchecking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\sampleforchecking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|c:\\users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF7B55EF-2C1F-4107-9A63-628B90E45668}|sampleforchecking\\sampleforchecking.csproj|solutionrelative:sampleforchecking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250725181414_Adding SalesItem and SalesTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\20250725181414_Adding SalesItem and SalesTransaction.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Migrations\\20250725181414_Adding SalesItem and SalesTransaction.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\20250725181414_Adding SalesItem and SalesTransaction.cs",
+              "RelativeToolTip": "sampleforchecking\\Migrations\\20250725181414_Adding SalesItem and SalesTransaction.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:14:15.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateSalesTransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\UpdateSalesTransactionDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Sales\\UpdateSalesTransactionDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\UpdateSalesTransactionDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Sales\\UpdateSalesTransactionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:59:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PharmacyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\PharmacyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Migrations\\PharmacyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\PharmacyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "sampleforchecking\\Migrations\\PharmacyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:09:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Program.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Program.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Program.cs",
+              "RelativeToolTip": "sampleforchecking\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:03:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "sampleforchecking\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:10:57.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateSalesTransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\CreateSalesTransactionDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Sales\\CreateSalesTransactionDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\CreateSalesTransactionDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Sales\\CreateSalesTransactionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:56:39.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesTransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\SalesTransactionDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Sales\\SalesTransactionDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\SalesTransactionDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Sales\\SalesTransactionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:55:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\Sale\\SalesService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Implementation\\Sale\\SalesService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\Sale\\SalesService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Implementation\\Sale\\SalesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:38:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISalesService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\ISale\\ISalesService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Interfaces\\ISale\\ISalesService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\ISale\\ISalesService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Interfaces\\ISale\\ISalesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:45:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateSalesItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\UpdateSalesItemDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Sales\\UpdateSalesItemDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\UpdateSalesItemDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Sales\\UpdateSalesItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:01:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSalesItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\CreateSalesItemDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Sales\\CreateSalesItemDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\CreateSalesItemDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Sales\\CreateSalesItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:00:41.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\SalesItemDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Sales\\SalesItemDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Sales\\SalesItemDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Sales\\SalesItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:59:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalesItem.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\CashierView model\\SalesItem.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\CashierView model\\SalesItem.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\CashierView model\\SalesItem.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\CashierView model\\SalesItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:52:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\CashierView model\\SalesTransaction.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\CashierView model\\SalesTransaction.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\CashierView model\\SalesTransaction.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\CashierView model\\SalesTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:51:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\AccountService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Implementation\\AccountService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\AccountService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Implementation\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:19:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\DiscountService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Implementation\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\DiscountService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Implementation\\DiscountService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:23:31.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\Discount.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Discount.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:54:06.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PharmacyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Data\\PharmacyDbContext.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Data\\PharmacyDbContext.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Data\\PharmacyDbContext.cs",
+              "RelativeToolTip": "sampleforchecking\\Data\\PharmacyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:51:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Role.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:58:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VATEntry.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\VATEntry.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\VATEntry.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\VATEntry.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\VATEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:53:27.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:26:41.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\AccountDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\AccountDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\AccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:27:18.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VATEntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\VATEntry\\VATEntryDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\VATEntry\\VATEntryDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\VATEntry\\VATEntryDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\VATEntry\\VATEntryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:03:43.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateVATEntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\VATEntry\\CreateVATEntryDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\VATEntry\\CreateVATEntryDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\VATEntry\\CreateVATEntryDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\VATEntry\\CreateVATEntryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:04:19.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateDiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Discount\\UpdateDiscountDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Discount\\UpdateDiscountDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Discount\\UpdateDiscountDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Discount\\UpdateDiscountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:09:21.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Discount\\DiscountDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Discount\\DiscountDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Discount\\DiscountDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Discount\\DiscountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:08:31.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateDiscountDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Discount\\CreateDiscountDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Discount\\CreateDiscountDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Discount\\CreateDiscountDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Discount\\CreateDiscountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:08:53.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VatEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\VatEntryController.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Controllers\\VatEntryController.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\VatEntryController.cs",
+              "RelativeToolTip": "sampleforchecking\\Controllers\\VatEntryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:33:33.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VatEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\VatEntryService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Implementation\\VatEntryService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\VatEntryService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Implementation\\VatEntryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:18:01.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:16:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:32:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SalesTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\Sale\\SalesTransactionRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Implementation\\Sale\\SalesTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\Sale\\SalesTransactionRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Implementation\\Sale\\SalesTransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:06:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Implementation\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\EmployeeRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Implementation\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:38:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISalesTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\ISale\\ISalesTransactionRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Interfaces\\ISale\\ISalesTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\ISale\\ISalesTransactionRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Interfaces\\ISale\\ISalesTransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:05:58.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Implementation\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:33:15.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Implementation\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\AccountRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Implementation\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:08:56.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DiscountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\DiscountRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Implementation\\DiscountRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\DiscountRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Implementation\\DiscountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:19:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:36:03.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250725054856_Adding VatEntry, Discount.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\20250725054856_Adding VatEntry, Discount.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Migrations\\20250725054856_Adding VatEntry, Discount.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\20250725054856_Adding VatEntry, Discount.cs",
+              "RelativeToolTip": "sampleforchecking\\Migrations\\20250725054856_Adding VatEntry, Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:48:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "sampleforchecking\\Controllers\\DiscountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:32:33.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IVatEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IVatEntryService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Interfaces\\IVatEntryService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IVatEntryService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Interfaces\\IVatEntryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:13:43.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250724160843_Adding Employee, Accounts, Role.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\20250724160843_Adding Employee, Accounts, Role.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Migrations\\20250724160843_Adding Employee, Accounts, Role.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Migrations\\20250724160843_Adding Employee, Accounts, Role.cs",
+              "RelativeToolTip": "sampleforchecking\\Migrations\\20250724160843_Adding Employee, Accounts, Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:08:44.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IDiscountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IDiscountRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Interfaces\\IDiscountRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IDiscountRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Interfaces\\IDiscountRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:18:30.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Interfaces\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IDiscountService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Interfaces\\IDiscountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:23:00.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "sampleforchecking\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:04:27.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:16:18.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "sampleforchecking\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:31:41.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\RoleService.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Services\\Implementation\\RoleService.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Services\\Implementation\\RoleService.cs",
+              "RelativeToolTip": "sampleforchecking\\Services\\Implementation\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:26:45.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Implementation\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\RoleRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Implementation\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:10:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VATEntryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\VATEntryRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Implementation\\VATEntryRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Implementation\\VATEntryRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Implementation\\VATEntryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:55:51.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:04:24.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IVATEntryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IVATEntryRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Interfaces\\IVATEntryRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IVATEntryRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Interfaces\\IVATEntryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:56:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateVATEntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\VATEntry\\UpdateVATEntryDto.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\VATEntry\\UpdateVATEntryDto.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\VATEntry\\UpdateVATEntryDto.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\VATEntry\\UpdateVATEntryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:04:49.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Role.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\DTOs\\Role.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\DTOs\\Role.cs",
+              "RelativeToolTip": "sampleforchecking\\DTOs\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:27:46.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "sampleforchecking\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:32:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Account.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:57:03.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Repository\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Repository\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "sampleforchecking\\Repository\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:03:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "sampleforchecking.csproj",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\sampleforchecking.csproj",
+              "RelativeDocumentMoniker": "sampleforchecking\\sampleforchecking.csproj",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\sampleforchecking.csproj",
+              "RelativeToolTip": "sampleforchecking\\sampleforchecking.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T17:15:15.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Employee.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:56:07.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "sampleforchecking\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\Models\\Product.cs",
+              "RelativeToolTip": "sampleforchecking\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:44:21.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\appsettings.json",
+              "RelativeDocumentMoniker": "sampleforchecking\\appsettings.json",
+              "ToolTip": "C:\\Users\\lk\\source\\repos\\sampleforchecking\\sampleforchecking\\appsettings.json",
+              "RelativeToolTip": "sampleforchecking\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T04:52:23.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
